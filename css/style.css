@@ -53,6 +53,14 @@ footer a {
   border-bottom: 1.5px dotted #C4A69D;
 }
 
+main h4 {
+  color: #363457;
+}
+
+main h5 {
+  color: #C4A69D;
+}
+
 /* import styles for review page */
 body {
   font-family: "Raleway", sans-serif;

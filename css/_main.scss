@@ -21,3 +21,13 @@
   margin: 50px auto;
   border-bottom: 1.5px dotted $brand-color-4;
 }
+
+main {
+  h4 {
+    color: $brand-color-6;
+  }
+
+  h5 {
+    color: $brand-color-4;
+  }
+}
