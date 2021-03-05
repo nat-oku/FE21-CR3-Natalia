@@ -41,11 +41,11 @@ footer a {
 .square50 img {
   margin-top: 10px;
   width: 14em;
-  height: 13em;
+  height: 15em;
   -o-object-fit: cover;
      object-fit: cover;
-  -o-object-position: 60% 50%;
-     object-position: 60% 50%;
+  -o-object-position: 50% 60%;
+     object-position: 50% 60%;
 }
 
 .articleDivision {
