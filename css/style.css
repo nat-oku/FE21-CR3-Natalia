@@ -35,12 +35,13 @@ footer a {
 }
 
 .square50 {
-  width: 17em;
+  width: 15em;
 }
 
 .square50 img {
-  width: 15em;
-  height: 15em;
+  margin-top: 10px;
+  width: 14em;
+  height: 13em;
   -o-object-fit: cover;
      object-fit: cover;
   -o-object-position: 60% 50%;
