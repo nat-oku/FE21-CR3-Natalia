@@ -6,4 +6,8 @@ footer {
   a {
     text-decoration: none; 
   }
+
+  .footerLink a:hover {
+    text-decoration: underline;
+  }
 }
