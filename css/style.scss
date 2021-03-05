@@ -4,11 +4,6 @@
 @import 'main';
 
 
-/* import styles for review page */ 
-
-
-
-
 body {
   font-family: $brand-font-2;
 
@@ -25,13 +20,14 @@ body {
 
 
 /* styles giving classes specific font families */
-
 .font-1 {
   font-family: $brand-font-1;
 }
+
 .font-2 {
   font-family: $brand-font-2;
 }
+
 
 /* overwriting the default bootstrap font colors */
 .fontColor-1 {
@@ -39,30 +35,19 @@ body {
 }
 
 .fontColor-2 {
-  $brand-color-2: #000;
-}
-
-.fontColor-3 {
-  $brand-color-3: #333;
+  $brand-color-2: $brand-color-2;
 }
 
 .fontColor-4 {
-  $brand-color-4: #C4A69D;
-}
-
-.fontColor-5 {
-  $brand-color-5: #465C69;
+  $brand-color-4: $brand-color-4;
 }
 
 .fontColor-6 {
-  $brand-color-6: #363457;
-}
-
-.fontColor-7 {
-  $brand-color-7: #98A886;
+  $brand-color-6: $brand-color-6;
 }
 
 
+/* overwriting the default bootstrap background colors */
 .color-1 {
   background-color: $brand-color-1;
 } 
@@ -71,22 +56,10 @@ body {
   background-color: $brand-color-2;
 } 
 
-.color-3 {
-  background-color: $brand-color-3;
-} 
-
 .color-4 {
   background-color: $brand-color-4;
 } 
 
-.color-5 {
-  background-color: $brand-color-5;
-} 
-
 .color-6 {
   background-color: $brand-color-6;
-} 
-
-.color-7 {
-  background-color: $brand-color-7;
 } 
