@@ -21,6 +21,10 @@ nav .font-2 {
 }
 
 /* styles for the footer section */
+footer {
+  background-color: #C4A69D;
+}
+
 footer a {
   text-decoration: none;
 }
@@ -59,7 +63,7 @@ body h2 {
   color: #fff;
   background-color: #363457;
   height: 60px;
-  padding-top: 10px;
+  padding-top: 8px;
   margin-bottom: 20px;
 }
 
@@ -75,5 +79,9 @@ body h2 {
 /* overwriting the default bootstrap font colors */
 .fontColor-1 {
   color: #fff;
+}
+
+.color-4 {
+  background-color: #C4A69D;
 }
 /*# sourceMappingURL=style.css.map */
