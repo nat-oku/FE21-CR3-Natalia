@@ -1,1 +1,15 @@
 /* styles for the header section */
+
+nav {
+  background-color: $brand-color-4;
+  height: 80px;
+  
+  .color-1 {
+    color: aquamarine;
+  }
+
+  .font-2 {
+    font-family: $brand-font-1;
+  }
+
+}
