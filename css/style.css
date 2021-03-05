@@ -21,6 +21,15 @@ nav .font-2 {
 }
 
 /* styles for the footer section */
+footer div {
+  height: 100px;
+}
+
+footer a {
+  font-family: "Codystar", cursive, sans-serif;
+  text-decoration: none;
+}
+
 /* styles for the main section */
 .centerAlign {
   margin: 0 auto;
@@ -42,7 +51,7 @@ nav .font-2 {
 .articleDivision {
   width: 80%;
   margin: 50px auto;
-  border-bottom: 1.5px solid #C4A69D;
+  border-bottom: 1.5px dotted #C4A69D;
 }
 
 /* import styles for review page */
