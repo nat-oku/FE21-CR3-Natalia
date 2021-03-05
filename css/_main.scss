@@ -1,2 +1,23 @@
 /* styles for the main section */
 
+.centerAlign {
+  margin: 0 auto;
+}
+
+.square50 {
+  width: 17em;
+
+  img {
+    width: 15em;
+    height: 15em;
+    object-fit: cover;
+    object-position: 50% 50%;
+  }
+
+}
+
+.articleDivision {
+  width: 80%;
+  margin: 50px auto;
+  border-bottom: 1.5px solid $brand-color-4;
+}

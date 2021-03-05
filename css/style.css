@@ -26,6 +26,29 @@ nav .font-2 {
 
 /* styles for the footer section */
 /* styles for the main section */
+.centerAlign {
+  margin: 0 auto;
+}
+
+.square50 {
+  width: 17em;
+}
+
+.square50 img {
+  width: 15em;
+  height: 15em;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 50% 50%;
+     object-position: 50% 50%;
+}
+
+.articleDivision {
+  width: 80%;
+  margin: 50px auto;
+  border-bottom: 1.5px solid #C4A69D;
+}
+
 /* import styles for review page */
 body {
   font-family: "Raleway", sans-serif;
