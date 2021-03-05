@@ -49,7 +49,6 @@ footer a {
 }
 
 .articleDivision {
-  width: 80%;
   margin: 50px auto;
   border-bottom: 1.5px dotted #C4A69D;
 }
@@ -82,7 +81,31 @@ body h2 {
   color: #fff;
 }
 
+.color-1 {
+  background-color: #fff;
+}
+
+.color-2 {
+  background-color: #000;
+}
+
+.color-3 {
+  background-color: #333;
+}
+
 .color-4 {
   background-color: #C4A69D;
+}
+
+.color-5 {
+  background-color: #465C69;
+}
+
+.color-6 {
+  background-color: #363457;
+}
+
+.color-7 {
+  background-color: #98A886;
 }
 /*# sourceMappingURL=style.css.map */
