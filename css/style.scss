@@ -1,11 +1,14 @@
 @import 'variables';
+@import 'header';
+@import 'footer';
+@import 'main';
 
 
 /* import styles for review page */ 
 
 
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: $brand-font-2;
 }
 
 

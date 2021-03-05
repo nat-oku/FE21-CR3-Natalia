@@ -1,11 +1,24 @@
 /* here is the list of the variables */
-/* color palette
-$brand-color-1: ;
-$brand-color-2: ;
-$brand-color-3: ;
-$brand-color-4: ; */
+/* color palette */
+/* fonts varibales */
+/* styles for the header section */
+nav {
+  background-color: #C4A69D;
+  height: 80px;
+}
+
+nav .color-1 {
+  color: aquamarine;
+}
+
+nav .font-2 {
+  font-family: "Codystar", cursive, sans-serif;
+}
+
+/* styles for the footer section */
+/* styles for the main section */
 /* import styles for review page */
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
