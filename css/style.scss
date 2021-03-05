@@ -9,6 +9,56 @@
 
 body {
   font-family: $brand-font-2;
+
+  h2 {
+    font-family: $brand-font-1;
+    color: $brand-color-1;
+    background-color: $brand-color-6;
+    height: 60px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+  }
+
 }
+
+
+/* styles giving classes specific font families */
+
+.font-1 {
+  font-family: $brand-font-1;
+}
+.font-2 {
+  font-family: $brand-font-2;
+}
+
+/* overwriting the default bootstrap font colors */
+.fontColor-1 {
+  color: $brand-color-1;
+}
+
+.fontColor-2 {
+  $brand-color-2: #000;
+}
+
+.fontColor-3 {
+  $brand-color-3: #333;
+}
+
+.fontColor-4 {
+  $brand-color-4: #C4A69D;
+}
+
+.fontColor-5 {
+  $brand-color-5: #465C69;
+}
+
+.fontColor-6 {
+  $brand-color-6: #363457;
+}
+
+.fontColor-7 {
+  $brand-color-7: #98A886;
+}
+
 
 
