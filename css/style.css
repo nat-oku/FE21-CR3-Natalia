@@ -7,10 +7,6 @@ nav {
   height: 80px;
 }
 
-nav .color-1 {
-  color: aquamarine;
-}
-
 nav .font-2 {
   font-family: "Codystar", cursive, sans-serif;
 }
@@ -39,8 +35,8 @@ nav .font-2 {
   height: 15em;
   -o-object-fit: cover;
      object-fit: cover;
-  -o-object-position: 50% 50%;
-     object-position: 50% 50%;
+  -o-object-position: 60% 50%;
+     object-position: 60% 50%;
 }
 
 .articleDivision {
@@ -52,5 +48,28 @@ nav .font-2 {
 /* import styles for review page */
 body {
   font-family: "Raleway", sans-serif;
+}
+
+body h2 {
+  font-family: "Codystar", cursive, sans-serif;
+  color: #fff;
+  background-color: #363457;
+  height: 60px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* styles giving classes specific font families */
+.font-1 {
+  font-family: "Codystar", cursive, sans-serif;
+}
+
+.font-2 {
+  font-family: "Raleway", sans-serif;
+}
+
+/* overwriting the default bootstrap font colors */
+.fontColor-1 {
+  color: #fff;
 }
 /*# sourceMappingURL=style.css.map */
