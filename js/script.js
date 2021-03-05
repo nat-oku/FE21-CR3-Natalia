@@ -29,7 +29,7 @@ let starterPriceTwo = 3;
 let maindishPriceTwo = 13;
 let dessertPriceTwo = 12;
 let beveragePriceTwo = 3.90;
-console.log(`Customer Three has to pay: ${calculateInvoice(starterPriceTwo, maindishPriceTwo, dessertPriceTwo, beveragePriceTwo)}€ for the menu.`);// result: 31.90€ -- for starter 4 & main dish 1 & dessert 2 & beverage 3
+console.log(`Customer Two has to pay: ${calculateInvoice(starterPriceTwo, maindishPriceTwo, dessertPriceTwo, beveragePriceTwo)}€ for the menu.`);// result: 31.90€ -- for starter 4 & main dish 1 & dessert 2 & beverage 3
 
     // COMBINATION Three
 let starterPriceThree = 5;
