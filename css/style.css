@@ -21,12 +21,7 @@ nav .font-2 {
 }
 
 /* styles for the footer section */
-footer div {
-  height: 100px;
-}
-
 footer a {
-  font-family: "Codystar", cursive, sans-serif;
   text-decoration: none;
 }
 
